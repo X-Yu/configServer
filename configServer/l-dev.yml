@@ -1,2 +1,2 @@
-mysql:host
-redis:host
+mysql: devmysql
+redis: devredis
